@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a36e970c-5297-49f9-9703-49bd980dce2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/WISDM_ar_v1.1/WISDM_ar_v1.1_raw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WISDM_ar_v1.1/WISDM_ar_v1.1_raw_about.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WISDM_ar_v1.1/WISDM_ar_v1.1_trans_about.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WISDM_ar_v1.1/WISDM_ar_v1.1_transformed.arff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WISDM_ar_v1.1/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
